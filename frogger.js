@@ -1,4 +1,5 @@
-class Frogger{
+class Frogger {
+    constructor(){}
 
     build(){};
     render(){};
