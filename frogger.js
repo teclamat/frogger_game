@@ -3,4 +3,6 @@ class Frogger {
 
     build(){};
     render(){};
+class player {
+
 }
